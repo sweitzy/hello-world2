@@ -1,2 +1,2 @@
 # hello-world2
-Get going again with github.
+Get (git? :-) going again with github.
